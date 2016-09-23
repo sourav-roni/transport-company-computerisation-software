@@ -1,0 +1,6 @@
+{
+  "name": "Transport-company-computerisation-software",
+  "tagline": "Logistic Solutions",
+  "body": "# transport-company-computerisation-software\r\nThis is a small application developed in Java to help logistic solutions.\r\nIt is basiclly built for organisations which commute by road and have widespread network \r\nthroughout the country. There are provisions for customisig the software to the fullest including that of rates,  new locations removing old sites, adding new trucks to the fleet and even for keeping track of usage of trucks and a system which recommends when a truck should be send for repair and servicing. \r\nNot only that there exists a centarlised server for storing all information including employee records. Different interfaces are provided for different\r\nlevels of people in the organisation. Access to different segments of the database are restricted to different levels.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
